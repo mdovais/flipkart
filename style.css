@@ -116,6 +116,7 @@ header {
   align-items: center;
   height: 63px;
   width: 550px;
+  overflow-y: hidden;
 }
 .cart0 {
   width: 94px;
